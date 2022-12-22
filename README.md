@@ -40,7 +40,7 @@ def detect(text):
             if dictio_pred[1] > 0.5 and dictio_pred[0] == ngram_pred[0]:
                 return dictio_pred[0], True
     
-    return ngram_pred[0], False if ngram_pred[1] < 0. else True 
+    return ngram_pred[0], False if ngram_pred[1] < 0.7 else True 
     
 
 print(detect(text.lower()))
