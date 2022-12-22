@@ -19,7 +19,7 @@ wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin
 import DictDetector
 import fasttext
 
-text = ""
+text = "Hi"
 
 dictio = DictDetector.Detector()
 
@@ -39,8 +39,8 @@ def detect(text):
         else:
             if dictio_pred[1] > 0.5 and dictio_pred[0] == ngram_pred[0]:
                 return dictio_pred[0], True
-
-    return ngram_pred[0], False
+    
+    return ngram_pred[0], False if ngram_pred[1] < 0. else True 
     
 
 print(detect(text.lower()))
