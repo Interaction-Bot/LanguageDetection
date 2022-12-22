@@ -45,6 +45,6 @@ def detect(text):
 print(detect(text.lower()))
 ```
 
-# Output
+# Output
 
-language code | reliability
+Language code | reliability
