@@ -48,3 +48,7 @@ print(detect(text.lower()))
 # Output
 
 Language code | reliability
+
+# Futur
+
+We will add a command to report bad detection, so we will update the dictionary detection accordingly.
