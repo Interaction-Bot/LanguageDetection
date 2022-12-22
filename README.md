@@ -10,7 +10,7 @@ We also made a language priority (made by counting the number of detected langua
 Run the main.py file (you must dl the fasttext model with this command:   
 ```
 wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin
-``
+```
 
 ```py
 import DictDetector
