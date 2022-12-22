@@ -52,4 +52,4 @@ Language code | reliability
 
 # Futur
 
-We will add a command to report bad detection, so we will update the dictionary detection accordingly.
+We will add a command to report bad detection, so we will update the dictionary detection accordingly. (we also update the code because it is bad actually 😂).
