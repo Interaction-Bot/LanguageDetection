@@ -5,7 +5,6 @@ class Detector:
     def __init__(self) -> None:
         self.language = {}
         
-
         for f in os.listdir(os.path.dirname(os.path.realpath(__file__))+'/dict'):
             file = open(os.path.dirname(os.path.realpath(__file__))+'/dict/'+f)
             self.language[f.replace('.txt', '')] = file.read().split('\n')
@@ -37,7 +36,7 @@ class Detector:
         top = max(list(score.values()))
     
         if top == 0:
-            return None, 0
+            return ['None', 0]
         
         output = []
         for k in score_sorted.keys():
@@ -47,4 +46,4 @@ class Detector:
         output.sort(key=lambda x:x[1])
         output = [[i[0], top/len(string)] for i in output]
 
-        return output[::-1]
+        return output[::-1][0]

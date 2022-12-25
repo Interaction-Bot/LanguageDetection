@@ -6,6 +6,7 @@ ouch
 Frosty
 and
 you
+u
 is
 in
 it
@@ -34,6 +35,7 @@ its
 all
 like
 dont
+
 was
 do
 your
@@ -772,6 +774,9 @@ become
 easier
 nobody
 em
+I
+y
+cant
 fire
 score
 purge
@@ -1019,7 +1024,6 @@ bread
 certain
 sec
 limited
-non
 tired
 light
 pc
@@ -2855,7 +2859,10 @@ i'm
 i've
 if
 in
+y
 into
+Im
+
 is
 isn't
 it
