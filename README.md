@@ -12,7 +12,7 @@ With discord, you could also use the language of the discord user interface send
 
 Run the main.py file (you must dl the fasttext model with this command:   
 ```
-wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin
+wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin # put it to model
 ```
 
 ```py
