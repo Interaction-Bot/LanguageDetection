@@ -1,8 +1,13 @@
 [project]
-name = "LanguageDetection"
-version = "0.0.1"
+name = "ShortLanguageDetection"
+description = "A language detector for short string or chat."
+readme = "README.md"
+version = "0.0.3"
 dependencies = [
     "fasttext",
     'emoji',
     'lingua-language-detector',
 ]
+keywords = ["language", "detection", "nlp", "identification"]
+author='Jourdelune'
+url='https://github.com/Interaction-Bot/LanguageDetection'
