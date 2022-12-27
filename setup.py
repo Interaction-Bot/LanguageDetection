@@ -10,7 +10,7 @@ setup(
     url='https://github.com/Interaction-Bot/LanguageDetection/',
     author='Jourdelune',
     license='MIT',
-    version='0.0.6',
+    version='0.0.7',
     long_description=readme(),
     long_description_content_type='text/markdown',
     install_requires=[

@@ -67,9 +67,9 @@ class Detector:
 
     def detect(self, text, recusrv=False):
         text = self.clean_text(text)
-        
+    
         if text == '':
-            return 'en', True
+            return 'en', False
 
         output = []
 
@@ -77,9 +77,12 @@ class Detector:
         output.extend(self.lingua_detect(text))
 
         dictio_detection = self.dict_detect(text)
-
+    
         if dictio_detection[1][1] == 1:
             return dictio_detection[1][0], True
+
+        if len(set(text.lower())) <= 2:
+            return 'en', 'False'
 
         output.extend(dictio_detection[0])
 
