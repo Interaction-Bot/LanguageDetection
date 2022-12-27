@@ -7,6 +7,7 @@ import emoji
 import re
 import os 
 
+fasttext.FastText.eprint = lambda x: None
 
 class Detector:
     def __init__(self, reliable_min:int = 0.35):
