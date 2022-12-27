@@ -1,0 +1,8 @@
+[project]
+name = "LanguageDetection"
+version = "0.0.1"
+dependencies = [
+    "fasttext",
+    'emoji',
+    'lingua-language-detector',
+]
