@@ -6,7 +6,7 @@ class Detector:
         self.language = {}
         
         for f in os.listdir(os.path.dirname(os.path.realpath(__file__))+'/dict'):
-            file = open(os.path.dirname(os.path.realpath(__file__))+'/dict/'+f)
+            file = open(os.path.dirname(os.path.realpath(__file__))+'/dict/'+f, encoding='utf-8')
             self.language[f.replace('.txt', '')] = file.read().split('\n')
 
         self.top_languages = json.load(open(os.path.dirname(os.path.realpath(__file__))+'/languages.json'))
