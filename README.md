@@ -15,7 +15,7 @@ print(detection.detect('text'))
 # Project
 
 This language detector is used by interaction bot to detect the language of message sent by user.
-It have for project to improve detection for this type of message.
+It has for objective to improve detection for this type of message.
 
 # Contribute
 
