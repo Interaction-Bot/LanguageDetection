@@ -14,7 +14,7 @@ setup(
     long_description=readme(),
     long_description_content_type='text/markdown',
     install_requires=[
-        'fasttext',
+        'fasttext-wheel',
         'emoji',
         'lingua-language-detector'
     ],
