@@ -16,7 +16,7 @@ setup(
     install_requires=[
         'fasttext-wheel',
         'emoji',
-        'lingua-language-detector'
+        'lingua-language-detector==1.3.1'
     ],
     keywords = ["language", "detection", "nlp", "identification", "short"],
     include_package_data=True,
