@@ -1,3 +1,5 @@
+# OUTDATED: NOW SEE https://github.com/Jourdelune/short_language_detection
+
 # Installation
 
 `pip install ShortLanguageDetection`
