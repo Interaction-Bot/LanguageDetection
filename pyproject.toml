@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ShortLanguageDetection"
+version = "0.1.0"
+description = "A language detector for short strings or chat messages."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Jourdelune" }]
+requires-python = ">=3.10"
+keywords = ["language", "detection", "nlp", "identification", "short"]
+dependencies = [
+    "fasttext-predict>=0.9.2.4",
+    "emoji>=2.14",
+    "lingua-language-detector>=2.0",
+    "numpy>=1.24",
+]
+
+[project.urls]
+Homepage = "https://github.com/Interaction-Bot/LanguageDetection/"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+include = ["ShortLanguageDetection*"]
+
+[tool.setuptools.package-data]
+"ShortLanguageDetection.DictDetector" = ["*"]
+"ShortLanguageDetection.DictDetector.dict" = ["*"]
+"ShortLanguageDetection.models" = ["*"]
+
+[dependency-groups]
+dev = ["pytest>=8"]

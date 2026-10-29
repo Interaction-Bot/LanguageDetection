@@ -1,0 +1,2482 @@
+[
+[
+"hello how are you today",
+"en",
+true
+],
+[
+"lol that was so funny",
+"en",
+true
+],
+[
+"anyone wanna play tonight?",
+"en",
+true
+],
+[
+"ok thanks!!",
+"en",
+true
+],
+[
+"bonjour tout le monde",
+"fr",
+true
+],
+[
+"salut ça va ?",
+"fr",
+true
+],
+[
+"merci beaucoup pour l'aide",
+"fr",
+true
+],
+[
+"on se retrouve ce soir sur le vocal",
+"fr",
+true
+],
+[
+"hola amigos como estan",
+"es",
+true
+],
+[
+"gracias por todo",
+"es",
+true
+],
+[
+"alguien quiere jugar conmigo",
+"es",
+true
+],
+[
+"guten morgen zusammen",
+"de",
+true
+],
+[
+"wie geht es dir heute",
+"de",
+true
+],
+[
+"ich habe keine Ahnung was du meinst",
+"de",
+true
+],
+[
+"ciao ragazzi come va",
+"it",
+true
+],
+[
+"grazie mille per l'aiuto",
+"it",
+true
+],
+[
+"olá pessoal tudo bem",
+"pt",
+true
+],
+[
+"obrigado pela ajuda amigo",
+"pt",
+true
+],
+[
+"привет всем как дела",
+"ru",
+true
+],
+[
+"спасибо большое",
+"ru",
+true
+],
+[
+"кто хочет поиграть сегодня вечером",
+"ru",
+true
+],
+[
+"これは日本語のテストです",
+"ja",
+true
+],
+[
+"みなさんこんにちは",
+"ja",
+true
+],
+[
+"안녕하세요 여러분",
+"ko",
+true
+],
+[
+"你好大家",
+"zh",
+true
+],
+[
+"大家好,今天有人想玩游戏吗",
+"zh",
+true
+],
+[
+"مرحبا بالجميع كيف حالكم",
+"ar",
+true
+],
+[
+"شكرا جزيلا",
+"ar",
+true
+],
+[
+"merhaba arkadaşlar nasılsınız",
+"tr",
+true
+],
+[
+"teşekkür ederim çok güzel",
+"tr",
+true
+],
+[
+"cześć wszystkim jak się macie",
+"pl",
+true
+],
+[
+"dziękuję bardzo",
+"pl",
+true
+],
+[
+"hallo allemaal hoe gaat het",
+"nl",
+true
+],
+[
+"bedankt voor de hulp",
+"nl",
+true
+],
+[
+"hej alla hur mår ni",
+"sv",
+true
+],
+[
+"tack så mycket",
+"sv",
+true
+],
+[
+"hei kaikki mitä kuuluu",
+"fi",
+true
+],
+[
+"kiitos paljon",
+"fi",
+true
+],
+[
+"hej alle sammen hvordan går det",
+"da",
+true
+],
+[
+"takk for hjelpen",
+"no",
+false
+],
+[
+"xin chào mọi người",
+"vi",
+true
+],
+[
+"cảm ơn bạn rất nhiều",
+"vi",
+true
+],
+[
+"halo semuanya apa kabar",
+"id",
+true
+],
+[
+"terima kasih banyak",
+"id",
+true
+],
+[
+"γεια σας όλοι",
+"el",
+true
+],
+[
+"ευχαριστώ πολύ",
+"el",
+true
+],
+[
+"שלום לכולם",
+"he",
+true
+],
+[
+"नमस्ते सभी लोग",
+"hi",
+true
+],
+[
+"ahoj všichni jak se máte",
+"cz",
+true
+],
+[
+"děkuji moc",
+"cz",
+true
+],
+[
+"szia mindenki hogy vagytok",
+"hu",
+true
+],
+[
+"köszönöm szépen",
+"hu",
+true
+],
+[
+"bună ziua tuturor",
+"ro",
+true
+],
+[
+"mulțumesc mult",
+"ro",
+true
+],
+[
+"привіт усім як справи",
+"uk",
+true
+],
+[
+"дякую за допомогу",
+"uk",
+true
+],
+[
+"ah",
+"en",
+true
+],
+[
+"ok",
+"en",
+true
+],
+[
+"yes",
+"en",
+true
+],
+[
+"no",
+"en",
+true
+],
+[
+"mdr",
+"fr",
+true
+],
+[
+"xd",
+"en",
+true
+],
+[
+"brb",
+"en",
+"False"
+],
+[
+"gg",
+"en",
+true
+],
+[
+"lmao what",
+"en",
+true
+],
+[
+"im tired",
+"en",
+true
+],
+[
+"i dont know",
+"en",
+true
+],
+[
+"je sais pas",
+"fr",
+true
+],
+[
+"no se",
+"en",
+true
+],
+[
+"weiß nicht",
+"de",
+true
+],
+[
+"non lo so",
+"it",
+false
+],
+[
+"nao sei",
+"it",
+true
+],
+[
+"не знаю",
+"ru",
+true
+],
+[
+"わからない",
+"ja",
+true
+],
+[
+"모르겠어요",
+"ko",
+true
+],
+[
+"不知道",
+"zh",
+true
+],
+[
+"@user hello there https://example.com :smile:",
+"en",
+true
+],
+[
+"😂😂😂",
+"en",
+false
+],
+[
+"hellooooooo everyone!!!!",
+"en",
+true
+],
+[
+"baaaaaaah nonnnn",
+"fr",
+false
+],
+[
+"12345",
+"en",
+false
+],
+[
+"hey, did you see the new update? it adds a lot of stuff and I think it's great",
+"en",
+true
+],
+[
+"tu as vu la nouvelle mise à jour ? elle ajoute beaucoup de choses et je pense que c'est super",
+"fr",
+true
+],
+[
+"¿has visto la nueva actualización? añade muchas cosas y creo que es genial",
+"es",
+true
+],
+[
+"hast du das neue Update gesehen? es fügt viele Dinge hinzu und ich finde es toll",
+"de",
+true
+],
+[
+"HELLO HOW ARE YOU TODAY",
+"en",
+true
+],
+[
+"hello how are you today !!",
+"en",
+true
+],
+[
+"  hello  how  are  you  today",
+"en",
+true
+],
+[
+"hello how are you today hello how are you today",
+"en",
+true
+],
+[
+"hello how are you today 123 :) \n",
+"en",
+true
+],
+[
+"LOL THAT WAS SO FUNNY",
+"en",
+true
+],
+[
+"lol that was so funny !!",
+"en",
+true
+],
+[
+"  lol  that  was  so  funny",
+"en",
+true
+],
+[
+"lol that was so funny lol that was so funny",
+"en",
+true
+],
+[
+"lol that was so funny 123 :) \n",
+"en",
+true
+],
+[
+"ANYONE WANNA PLAY TONIGHT?",
+"en",
+true
+],
+[
+"anyone wanna play tonight? !!",
+"en",
+true
+],
+[
+"  anyone  wanna  play  tonight?",
+"en",
+true
+],
+[
+"anyone wanna play tonight? anyone wanna play tonight?",
+"en",
+true
+],
+[
+"anyone wanna play tonight? 123 :) \n",
+"en",
+true
+],
+[
+"OK THANKS!!",
+"en",
+true
+],
+[
+"ok thanks!! !!",
+"en",
+true
+],
+[
+"  ok  thanks!!",
+"en",
+true
+],
+[
+"ok thanks!! ok thanks!!",
+"en",
+false
+],
+[
+"ok thanks!! 123 :) \n",
+"en",
+true
+],
+[
+"BONJOUR TOUT LE MONDE",
+"fr",
+true
+],
+[
+"bonjour tout le monde !!",
+"fr",
+true
+],
+[
+"  bonjour  tout  le  monde",
+"fr",
+true
+],
+[
+"bonjour tout le monde bonjour tout le monde",
+"fr",
+true
+],
+[
+"bonjour tout le monde 123 :) \n",
+"fr",
+true
+],
+[
+"SALUT ÇA VA ?",
+"fr",
+true
+],
+[
+"salut ça va ? !!",
+"fr",
+true
+],
+[
+"  salut  ça  va  ?",
+"fr",
+true
+],
+[
+"salut ça va ? salut ça va ?",
+"fr",
+true
+],
+[
+"salut ça va ? 123 :) \n",
+"fr",
+true
+],
+[
+"MERCI BEAUCOUP POUR L'AIDE",
+"fr",
+true
+],
+[
+"merci beaucoup pour l'aide !!",
+"fr",
+true
+],
+[
+"  merci  beaucoup  pour  l'aide",
+"fr",
+true
+],
+[
+"merci beaucoup pour l'aide merci beaucoup pour l'aide",
+"fr",
+true
+],
+[
+"merci beaucoup pour l'aide 123 :) \n",
+"fr",
+true
+],
+[
+"ON SE RETROUVE CE SOIR SUR LE VOCAL",
+"fr",
+true
+],
+[
+"on se retrouve ce soir sur le vocal !!",
+"fr",
+true
+],
+[
+"  on  se  retrouve  ce  soir  sur  le  vocal",
+"fr",
+true
+],
+[
+"on se retrouve ce soir sur le vocal on se retrouve ce soir sur le vocal",
+"fr",
+true
+],
+[
+"on se retrouve ce soir sur le vocal 123 :) \n",
+"fr",
+true
+],
+[
+"HOLA AMIGOS COMO ESTAN",
+"es",
+true
+],
+[
+"hola amigos como estan !!",
+"es",
+true
+],
+[
+"  hola  amigos  como  estan",
+"es",
+true
+],
+[
+"hola amigos como estan hola amigos como estan",
+"es",
+true
+],
+[
+"hola amigos como estan 123 :) \n",
+"es",
+true
+],
+[
+"GRACIAS POR TODO",
+"es",
+true
+],
+[
+"gracias por todo !!",
+"es",
+true
+],
+[
+"  gracias  por  todo",
+"es",
+true
+],
+[
+"gracias por todo gracias por todo",
+"es",
+true
+],
+[
+"gracias por todo 123 :) \n",
+"es",
+true
+],
+[
+"ALGUIEN QUIERE JUGAR CONMIGO",
+"es",
+true
+],
+[
+"alguien quiere jugar conmigo !!",
+"es",
+true
+],
+[
+"  alguien  quiere  jugar  conmigo",
+"es",
+true
+],
+[
+"alguien quiere jugar conmigo alguien quiere jugar conmigo",
+"es",
+true
+],
+[
+"alguien quiere jugar conmigo 123 :) \n",
+"es",
+true
+],
+[
+"GUTEN MORGEN ZUSAMMEN",
+"de",
+true
+],
+[
+"guten morgen zusammen !!",
+"de",
+true
+],
+[
+"  guten  morgen  zusammen",
+"de",
+true
+],
+[
+"guten morgen zusammen guten morgen zusammen",
+"de",
+true
+],
+[
+"guten morgen zusammen 123 :) \n",
+"de",
+true
+],
+[
+"WIE GEHT ES DIR HEUTE",
+"de",
+true
+],
+[
+"wie geht es dir heute !!",
+"de",
+true
+],
+[
+"  wie  geht  es  dir  heute",
+"de",
+true
+],
+[
+"wie geht es dir heute wie geht es dir heute",
+"de",
+true
+],
+[
+"wie geht es dir heute 123 :) \n",
+"de",
+true
+],
+[
+"ICH HABE KEINE AHNUNG WAS DU MEINST",
+"de",
+true
+],
+[
+"ich habe keine Ahnung was du meinst !!",
+"de",
+true
+],
+[
+"  ich  habe  keine  Ahnung  was  du  meinst",
+"de",
+true
+],
+[
+"ich habe keine Ahnung was du meinst ich habe keine Ahnung was du meinst",
+"de",
+true
+],
+[
+"ich habe keine Ahnung was du meinst 123 :) \n",
+"de",
+true
+],
+[
+"CIAO RAGAZZI COME VA",
+"it",
+true
+],
+[
+"ciao ragazzi come va !!",
+"it",
+true
+],
+[
+"  ciao  ragazzi  come  va",
+"it",
+true
+],
+[
+"ciao ragazzi come va ciao ragazzi come va",
+"it",
+true
+],
+[
+"ciao ragazzi come va 123 :) \n",
+"it",
+true
+],
+[
+"GRAZIE MILLE PER L'AIUTO",
+"it",
+true
+],
+[
+"grazie mille per l'aiuto !!",
+"it",
+true
+],
+[
+"  grazie  mille  per  l'aiuto",
+"it",
+true
+],
+[
+"grazie mille per l'aiuto grazie mille per l'aiuto",
+"it",
+true
+],
+[
+"grazie mille per l'aiuto 123 :) \n",
+"it",
+true
+],
+[
+"OLÁ PESSOAL TUDO BEM",
+"pt",
+true
+],
+[
+"olá pessoal tudo bem !!",
+"pt",
+true
+],
+[
+"  olá  pessoal  tudo  bem",
+"pt",
+true
+],
+[
+"olá pessoal tudo bem olá pessoal tudo bem",
+"pt",
+true
+],
+[
+"olá pessoal tudo bem 123 :) \n",
+"pt",
+true
+],
+[
+"OBRIGADO PELA AJUDA AMIGO",
+"pt",
+true
+],
+[
+"obrigado pela ajuda amigo !!",
+"pt",
+true
+],
+[
+"  obrigado  pela  ajuda  amigo",
+"pt",
+true
+],
+[
+"obrigado pela ajuda amigo obrigado pela ajuda amigo",
+"pt",
+true
+],
+[
+"obrigado pela ajuda amigo 123 :) \n",
+"pt",
+true
+],
+[
+"ПРИВЕТ ВСЕМ КАК ДЕЛА",
+"ru",
+true
+],
+[
+"привет всем как дела !!",
+"ru",
+true
+],
+[
+"  привет  всем  как  дела",
+"ru",
+true
+],
+[
+"привет всем как дела привет всем как дела",
+"ru",
+true
+],
+[
+"привет всем как дела 123 :) \n",
+"ru",
+true
+],
+[
+"СПАСИБО БОЛЬШОЕ",
+"ru",
+true
+],
+[
+"спасибо большое !!",
+"ru",
+true
+],
+[
+"  спасибо  большое",
+"ru",
+true
+],
+[
+"спасибо большое спасибо большое",
+"ru",
+true
+],
+[
+"спасибо большое 123 :) \n",
+"ru",
+true
+],
+[
+"КТО ХОЧЕТ ПОИГРАТЬ СЕГОДНЯ ВЕЧЕРОМ",
+"ru",
+true
+],
+[
+"кто хочет поиграть сегодня вечером !!",
+"ru",
+true
+],
+[
+"  кто  хочет  поиграть  сегодня  вечером",
+"ru",
+true
+],
+[
+"кто хочет поиграть сегодня вечером кто хочет поиграть сегодня вечером",
+"ru",
+true
+],
+[
+"кто хочет поиграть сегодня вечером 123 :) \n",
+"ru",
+true
+],
+[
+"これは日本語のテストです !!",
+"ja",
+true
+],
+[
+"  これは日本語のテストです",
+"ja",
+true
+],
+[
+"これは日本語のテストです これは日本語のテストです",
+"ja",
+true
+],
+[
+"これは日本語のテストです 123 :) \n",
+"ja",
+true
+],
+[
+"みなさんこんにちは !!",
+"ja",
+true
+],
+[
+"  みなさんこんにちは",
+"ja",
+true
+],
+[
+"みなさんこんにちは みなさんこんにちは",
+"ja",
+true
+],
+[
+"みなさんこんにちは 123 :) \n",
+"ja",
+true
+],
+[
+"안녕하세요 여러분 !!",
+"ko",
+true
+],
+[
+"  안녕하세요  여러분",
+"ko",
+true
+],
+[
+"안녕하세요 여러분 안녕하세요 여러분",
+"ko",
+true
+],
+[
+"안녕하세요 여러분 123 :) \n",
+"ko",
+true
+],
+[
+"你好大家 !!",
+"zh",
+true
+],
+[
+"  你好大家",
+"zh",
+true
+],
+[
+"你好大家 你好大家",
+"zh",
+true
+],
+[
+"你好大家 123 :) \n",
+"zh",
+true
+],
+[
+"大家好,今天有人想玩游戏吗 !!",
+"zh",
+true
+],
+[
+"  大家好,今天有人想玩游戏吗",
+"zh",
+true
+],
+[
+"大家好,今天有人想玩游戏吗 大家好,今天有人想玩游戏吗",
+"zh",
+true
+],
+[
+"大家好,今天有人想玩游戏吗 123 :) \n",
+"zh",
+true
+],
+[
+"مرحبا بالجميع كيف حالكم !!",
+"ar",
+true
+],
+[
+"  مرحبا  بالجميع  كيف  حالكم",
+"ar",
+true
+],
+[
+"مرحبا بالجميع كيف حالكم مرحبا بالجميع كيف حالكم",
+"ar",
+true
+],
+[
+"مرحبا بالجميع كيف حالكم 123 :) \n",
+"ar",
+true
+],
+[
+"شكرا جزيلا !!",
+"ar",
+true
+],
+[
+"  شكرا  جزيلا",
+"ar",
+true
+],
+[
+"شكرا جزيلا شكرا جزيلا",
+"ar",
+true
+],
+[
+"شكرا جزيلا 123 :) \n",
+"ar",
+true
+],
+[
+"MERHABA ARKADAŞLAR NASILSINIZ",
+"tr",
+true
+],
+[
+"merhaba arkadaşlar nasılsınız !!",
+"tr",
+true
+],
+[
+"  merhaba  arkadaşlar  nasılsınız",
+"tr",
+true
+],
+[
+"merhaba arkadaşlar nasılsınız merhaba arkadaşlar nasılsınız",
+"tr",
+true
+],
+[
+"merhaba arkadaşlar nasılsınız 123 :) \n",
+"tr",
+true
+],
+[
+"TEŞEKKÜR EDERIM ÇOK GÜZEL",
+"tr",
+true
+],
+[
+"teşekkür ederim çok güzel !!",
+"tr",
+true
+],
+[
+"  teşekkür  ederim  çok  güzel",
+"tr",
+true
+],
+[
+"teşekkür ederim çok güzel teşekkür ederim çok güzel",
+"tr",
+true
+],
+[
+"teşekkür ederim çok güzel 123 :) \n",
+"tr",
+true
+],
+[
+"CZEŚĆ WSZYSTKIM JAK SIĘ MACIE",
+"pl",
+true
+],
+[
+"cześć wszystkim jak się macie !!",
+"pl",
+true
+],
+[
+"  cześć  wszystkim  jak  się  macie",
+"pl",
+true
+],
+[
+"cześć wszystkim jak się macie cześć wszystkim jak się macie",
+"pl",
+true
+],
+[
+"cześć wszystkim jak się macie 123 :) \n",
+"pl",
+true
+],
+[
+"DZIĘKUJĘ BARDZO",
+"pl",
+true
+],
+[
+"dziękuję bardzo !!",
+"pl",
+true
+],
+[
+"  dziękuję  bardzo",
+"pl",
+true
+],
+[
+"dziękuję bardzo dziękuję bardzo",
+"pl",
+true
+],
+[
+"dziękuję bardzo 123 :) \n",
+"pl",
+true
+],
+[
+"HALLO ALLEMAAL HOE GAAT HET",
+"nl",
+true
+],
+[
+"hallo allemaal hoe gaat het !!",
+"nl",
+true
+],
+[
+"  hallo  allemaal  hoe  gaat  het",
+"nl",
+true
+],
+[
+"hallo allemaal hoe gaat het hallo allemaal hoe gaat het",
+"nl",
+true
+],
+[
+"hallo allemaal hoe gaat het 123 :) \n",
+"nl",
+true
+],
+[
+"BEDANKT VOOR DE HULP",
+"nl",
+true
+],
+[
+"bedankt voor de hulp !!",
+"nl",
+true
+],
+[
+"  bedankt  voor  de  hulp",
+"nl",
+true
+],
+[
+"bedankt voor de hulp bedankt voor de hulp",
+"nl",
+true
+],
+[
+"bedankt voor de hulp 123 :) \n",
+"nl",
+true
+],
+[
+"HEJ ALLA HUR MÅR NI",
+"sv",
+true
+],
+[
+"hej alla hur mår ni !!",
+"sv",
+true
+],
+[
+"  hej  alla  hur  mår  ni",
+"sv",
+true
+],
+[
+"hej alla hur mår ni hej alla hur mår ni",
+"sv",
+true
+],
+[
+"hej alla hur mår ni 123 :) \n",
+"sv",
+true
+],
+[
+"TACK SÅ MYCKET",
+"sv",
+true
+],
+[
+"tack så mycket !!",
+"sv",
+true
+],
+[
+"  tack  så  mycket",
+"sv",
+true
+],
+[
+"tack så mycket tack så mycket",
+"sv",
+true
+],
+[
+"tack så mycket 123 :) \n",
+"sv",
+true
+],
+[
+"HEI KAIKKI MITÄ KUULUU",
+"fi",
+true
+],
+[
+"hei kaikki mitä kuuluu !!",
+"fi",
+true
+],
+[
+"  hei  kaikki  mitä  kuuluu",
+"fi",
+true
+],
+[
+"hei kaikki mitä kuuluu hei kaikki mitä kuuluu",
+"fi",
+true
+],
+[
+"hei kaikki mitä kuuluu 123 :) \n",
+"fi",
+true
+],
+[
+"KIITOS PALJON",
+"fi",
+true
+],
+[
+"kiitos paljon !!",
+"fi",
+true
+],
+[
+"  kiitos  paljon",
+"fi",
+true
+],
+[
+"kiitos paljon kiitos paljon",
+"fi",
+true
+],
+[
+"kiitos paljon 123 :) \n",
+"fi",
+true
+],
+[
+"HEJ ALLE SAMMEN HVORDAN GÅR DET",
+"da",
+true
+],
+[
+"hej alle sammen hvordan går det !!",
+"da",
+true
+],
+[
+"  hej  alle  sammen  hvordan  går  det",
+"da",
+true
+],
+[
+"hej alle sammen hvordan går det hej alle sammen hvordan går det",
+"da",
+true
+],
+[
+"hej alle sammen hvordan går det 123 :) \n",
+"da",
+true
+],
+[
+"TAKK FOR HJELPEN",
+"no",
+false
+],
+[
+"takk for hjelpen !!",
+"no",
+false
+],
+[
+"  takk  for  hjelpen",
+"no",
+false
+],
+[
+"takk for hjelpen takk for hjelpen",
+"no",
+false
+],
+[
+"takk for hjelpen 123 :) \n",
+"no",
+false
+],
+[
+"XIN CHÀO MỌI NGƯỜI",
+"vi",
+true
+],
+[
+"xin chào mọi người !!",
+"vi",
+true
+],
+[
+"  xin  chào  mọi  người",
+"vi",
+true
+],
+[
+"xin chào mọi người xin chào mọi người",
+"vi",
+true
+],
+[
+"xin chào mọi người 123 :) \n",
+"vi",
+true
+],
+[
+"CẢM ƠN BẠN RẤT NHIỀU",
+"vi",
+true
+],
+[
+"cảm ơn bạn rất nhiều !!",
+"vi",
+true
+],
+[
+"  cảm  ơn  bạn  rất  nhiều",
+"vi",
+true
+],
+[
+"cảm ơn bạn rất nhiều cảm ơn bạn rất nhiều",
+"vi",
+true
+],
+[
+"cảm ơn bạn rất nhiều 123 :) \n",
+"vi",
+true
+],
+[
+"HALO SEMUANYA APA KABAR",
+"id",
+true
+],
+[
+"halo semuanya apa kabar !!",
+"id",
+true
+],
+[
+"  halo  semuanya  apa  kabar",
+"id",
+true
+],
+[
+"halo semuanya apa kabar halo semuanya apa kabar",
+"id",
+true
+],
+[
+"halo semuanya apa kabar 123 :) \n",
+"id",
+true
+],
+[
+"TERIMA KASIH BANYAK",
+"id",
+true
+],
+[
+"terima kasih banyak !!",
+"id",
+true
+],
+[
+"  terima  kasih  banyak",
+"id",
+true
+],
+[
+"terima kasih banyak terima kasih banyak",
+"id",
+true
+],
+[
+"terima kasih banyak 123 :) \n",
+"id",
+true
+],
+[
+"ΓΕΙΑ ΣΑΣ ΌΛΟΙ",
+"el",
+true
+],
+[
+"γεια σας όλοι !!",
+"el",
+true
+],
+[
+"  γεια  σας  όλοι",
+"el",
+true
+],
+[
+"γεια σας όλοι γεια σας όλοι",
+"el",
+true
+],
+[
+"γεια σας όλοι 123 :) \n",
+"el",
+true
+],
+[
+"ΕΥΧΑΡΙΣΤΏ ΠΟΛΎ",
+"el",
+true
+],
+[
+"ευχαριστώ πολύ !!",
+"el",
+true
+],
+[
+"  ευχαριστώ  πολύ",
+"el",
+true
+],
+[
+"ευχαριστώ πολύ ευχαριστώ πολύ",
+"el",
+true
+],
+[
+"ευχαριστώ πολύ 123 :) \n",
+"el",
+true
+],
+[
+"שלום לכולם !!",
+"he",
+true
+],
+[
+"  שלום  לכולם",
+"he",
+true
+],
+[
+"שלום לכולם שלום לכולם",
+"he",
+true
+],
+[
+"שלום לכולם 123 :) \n",
+"he",
+true
+],
+[
+"नमस्ते सभी लोग !!",
+"hi",
+true
+],
+[
+"  नमस्ते  सभी  लोग",
+"hi",
+true
+],
+[
+"नमस्ते सभी लोग नमस्ते सभी लोग",
+"hi",
+true
+],
+[
+"नमस्ते सभी लोग 123 :) \n",
+"hi",
+true
+],
+[
+"AHOJ VŠICHNI JAK SE MÁTE",
+"cz",
+true
+],
+[
+"ahoj všichni jak se máte !!",
+"cz",
+true
+],
+[
+"  ahoj  všichni  jak  se  máte",
+"cz",
+true
+],
+[
+"ahoj všichni jak se máte ahoj všichni jak se máte",
+"cz",
+true
+],
+[
+"ahoj všichni jak se máte 123 :) \n",
+"cz",
+true
+],
+[
+"DĚKUJI MOC",
+"cz",
+true
+],
+[
+"děkuji moc !!",
+"cz",
+true
+],
+[
+"  děkuji  moc",
+"cz",
+true
+],
+[
+"děkuji moc děkuji moc",
+"cz",
+true
+],
+[
+"děkuji moc 123 :) \n",
+"cz",
+true
+],
+[
+"SZIA MINDENKI HOGY VAGYTOK",
+"hu",
+true
+],
+[
+"szia mindenki hogy vagytok !!",
+"hu",
+true
+],
+[
+"  szia  mindenki  hogy  vagytok",
+"hu",
+true
+],
+[
+"szia mindenki hogy vagytok szia mindenki hogy vagytok",
+"hu",
+true
+],
+[
+"szia mindenki hogy vagytok 123 :) \n",
+"hu",
+true
+],
+[
+"KÖSZÖNÖM SZÉPEN",
+"hu",
+true
+],
+[
+"köszönöm szépen !!",
+"hu",
+true
+],
+[
+"  köszönöm  szépen",
+"hu",
+true
+],
+[
+"köszönöm szépen köszönöm szépen",
+"hu",
+true
+],
+[
+"köszönöm szépen 123 :) \n",
+"hu",
+true
+],
+[
+"BUNĂ ZIUA TUTUROR",
+"ro",
+true
+],
+[
+"bună ziua tuturor !!",
+"ro",
+true
+],
+[
+"  bună  ziua  tuturor",
+"ro",
+true
+],
+[
+"bună ziua tuturor bună ziua tuturor",
+"ro",
+true
+],
+[
+"bună ziua tuturor 123 :) \n",
+"ro",
+true
+],
+[
+"MULȚUMESC MULT",
+"ro",
+true
+],
+[
+"mulțumesc mult !!",
+"ro",
+true
+],
+[
+"  mulțumesc  mult",
+"ro",
+true
+],
+[
+"mulțumesc mult mulțumesc mult",
+"ro",
+true
+],
+[
+"mulțumesc mult 123 :) \n",
+"ro",
+true
+],
+[
+"ПРИВІТ УСІМ ЯК СПРАВИ",
+"uk",
+true
+],
+[
+"привіт усім як справи !!",
+"uk",
+true
+],
+[
+"  привіт  усім  як  справи",
+"uk",
+true
+],
+[
+"привіт усім як справи привіт усім як справи",
+"uk",
+true
+],
+[
+"привіт усім як справи 123 :) \n",
+"uk",
+true
+],
+[
+"ДЯКУЮ ЗА ДОПОМОГУ",
+"uk",
+true
+],
+[
+"дякую за допомогу !!",
+"uk",
+true
+],
+[
+"  дякую  за  допомогу",
+"uk",
+true
+],
+[
+"дякую за допомогу дякую за допомогу",
+"uk",
+true
+],
+[
+"дякую за допомогу 123 :) \n",
+"uk",
+true
+],
+[
+"AH",
+"en",
+true
+],
+[
+"ah !!",
+"en",
+true
+],
+[
+"  ah",
+"en",
+true
+],
+[
+"ah ah",
+"en",
+true
+],
+[
+"ah 123 :) \n",
+"en",
+true
+],
+[
+"OK",
+"en",
+true
+],
+[
+"ok !!",
+"en",
+true
+],
+[
+"  ok",
+"en",
+true
+],
+[
+"ok ok",
+"en",
+true
+],
+[
+"ok 123 :) \n",
+"en",
+true
+],
+[
+"YES",
+"en",
+true
+],
+[
+"yes !!",
+"en",
+true
+],
+[
+"  yes",
+"en",
+true
+],
+[
+"yes yes",
+"en",
+true
+],
+[
+"yes 123 :) \n",
+"en",
+true
+],
+[
+"NO",
+"en",
+true
+],
+[
+"no !!",
+"en",
+true
+],
+[
+"  no",
+"en",
+true
+],
+[
+"no no",
+"en",
+true
+],
+[
+"no 123 :) \n",
+"en",
+true
+],
+[
+"MDR",
+"fr",
+true
+],
+[
+"mdr !!",
+"fr",
+true
+],
+[
+"  mdr",
+"fr",
+true
+],
+[
+"mdr mdr",
+"fr",
+true
+],
+[
+"mdr 123 :) \n",
+"fr",
+true
+],
+[
+"XD",
+"en",
+true
+],
+[
+"xd !!",
+"en",
+true
+],
+[
+"  xd",
+"en",
+true
+],
+[
+"xd xd",
+"en",
+true
+],
+[
+"xd 123 :) \n",
+"en",
+true
+],
+[
+"BRB",
+"en",
+"False"
+],
+[
+"brb !!",
+"en",
+"False"
+],
+[
+"  brb",
+"en",
+"False"
+],
+[
+"brb brb",
+"en",
+false
+],
+[
+"brb 123 :) \n",
+"en",
+"False"
+],
+[
+"GG",
+"en",
+true
+],
+[
+"gg !!",
+"en",
+true
+],
+[
+"  gg",
+"en",
+true
+],
+[
+"gg gg",
+"en",
+true
+],
+[
+"gg 123 :) \n",
+"en",
+true
+],
+[
+"LMAO WHAT",
+"en",
+true
+],
+[
+"lmao what !!",
+"en",
+true
+],
+[
+"  lmao  what",
+"en",
+true
+],
+[
+"lmao what lmao what",
+"en",
+true
+],
+[
+"lmao what 123 :) \n",
+"en",
+true
+],
+[
+"IM TIRED",
+"en",
+true
+],
+[
+"im tired !!",
+"en",
+true
+],
+[
+"  im  tired",
+"en",
+true
+],
+[
+"im tired im tired",
+"en",
+true
+],
+[
+"im tired 123 :) \n",
+"en",
+true
+],
+[
+"I DONT KNOW",
+"en",
+true
+],
+[
+"i dont know !!",
+"en",
+true
+],
+[
+"  i  dont  know",
+"en",
+true
+],
+[
+"i dont know i dont know",
+"en",
+true
+],
+[
+"i dont know 123 :) \n",
+"en",
+true
+],
+[
+"JE SAIS PAS",
+"fr",
+true
+],
+[
+"je sais pas !!",
+"fr",
+true
+],
+[
+"  je  sais  pas",
+"fr",
+true
+],
+[
+"je sais pas je sais pas",
+"fr",
+true
+],
+[
+"je sais pas 123 :) \n",
+"fr",
+true
+],
+[
+"NO SE",
+"en",
+true
+],
+[
+"no se !!",
+"en",
+true
+],
+[
+"  no  se",
+"en",
+true
+],
+[
+"no se no se",
+"en",
+true
+],
+[
+"no se 123 :) \n",
+"en",
+true
+],
+[
+"WEISS NICHT",
+"de",
+true
+],
+[
+"weiß nicht !!",
+"de",
+true
+],
+[
+"  weiß  nicht",
+"de",
+true
+],
+[
+"weiß nicht weiß nicht",
+"de",
+true
+],
+[
+"weiß nicht 123 :) \n",
+"de",
+true
+],
+[
+"NON LO SO",
+"it",
+false
+],
+[
+"non lo so !!",
+"it",
+false
+],
+[
+"  non  lo  so",
+"it",
+false
+],
+[
+"non lo so non lo so",
+"it",
+false
+],
+[
+"non lo so 123 :) \n",
+"it",
+false
+],
+[
+"NAO SEI",
+"it",
+true
+],
+[
+"nao sei !!",
+"it",
+true
+],
+[
+"  nao  sei",
+"it",
+true
+],
+[
+"nao sei nao sei",
+"it",
+true
+],
+[
+"nao sei 123 :) \n",
+"it",
+true
+],
+[
+"НЕ ЗНАЮ",
+"ru",
+true
+],
+[
+"не знаю !!",
+"ru",
+true
+],
+[
+"  не  знаю",
+"ru",
+true
+],
+[
+"не знаю не знаю",
+"ru",
+true
+],
+[
+"не знаю 123 :) \n",
+"ru",
+true
+],
+[
+"わからない !!",
+"ja",
+true
+],
+[
+"  わからない",
+"ja",
+true
+],
+[
+"わからない わからない",
+"ja",
+true
+],
+[
+"わからない 123 :) \n",
+"ja",
+true
+],
+[
+"모르겠어요 !!",
+"ko",
+true
+],
+[
+"  모르겠어요",
+"ko",
+true
+],
+[
+"모르겠어요 모르겠어요",
+"ko",
+true
+],
+[
+"모르겠어요 123 :) \n",
+"ko",
+true
+],
+[
+"不知道 !!",
+"zh",
+true
+],
+[
+"  不知道",
+"zh",
+true
+],
+[
+"不知道 不知道",
+"zh",
+true
+],
+[
+"不知道 123 :) \n",
+"zh",
+true
+],
+[
+"@USER HELLO THERE HTTPS://EXAMPLE.COM :SMILE:",
+"en",
+true
+],
+[
+"@user hello there https://example.com :smile: !!",
+"en",
+true
+],
+[
+"  @user  hello  there  https://example.com  :smile:",
+"en",
+true
+],
+[
+"@user hello there https://example.com :smile: @user hello there https://example.com :smile:",
+"en",
+true
+],
+[
+"@user hello there https://example.com :smile: 123 :) \n",
+"en",
+true
+],
+[
+"😂😂😂 !!",
+"en",
+false
+],
+[
+"  😂😂😂",
+"en",
+false
+],
+[
+"😂😂😂 😂😂😂",
+"en",
+false
+],
+[
+"😂😂😂 123 :) \n",
+"en",
+false
+],
+[
+"HELLOOOOOOO EVERYONE!!!!",
+"en",
+true
+],
+[
+"hellooooooo everyone!!!! !!",
+"en",
+true
+],
+[
+"  hellooooooo  everyone!!!!",
+"en",
+true
+],
+[
+"hellooooooo everyone!!!! hellooooooo everyone!!!!",
+"en",
+true
+],
+[
+"hellooooooo everyone!!!! 123 :) \n",
+"en",
+true
+],
+[
+"BAAAAAAAH NONNNN",
+"fr",
+false
+],
+[
+"baaaaaaah nonnnn !!",
+"fr",
+false
+],
+[
+"  baaaaaaah  nonnnn",
+"fr",
+false
+],
+[
+"baaaaaaah nonnnn baaaaaaah nonnnn",
+"st",
+false
+],
+[
+"baaaaaaah nonnnn 123 :) \n",
+"fr",
+false
+],
+[
+"12345 !!",
+"en",
+false
+],
+[
+"  12345",
+"en",
+false
+],
+[
+"12345 12345",
+"en",
+false
+],
+[
+"12345 123 :) \n",
+"en",
+false
+],
+[
+"HEY, DID YOU SEE THE NEW UPDATE? IT ADDS A LOT OF STUFF AND I THINK IT'S GREAT",
+"en",
+true
+],
+[
+"hey, did you see the new update? it adds a lot of stuff and I think it's great !!",
+"en",
+true
+],
+[
+"  hey,  did  you  see  the  new  update?  it  adds  a  lot  of  stuff  and  I  think  it's  great",
+"en",
+true
+],
+[
+"hey, did you see the new update? it adds a lot of stuff and I think it's great hey, did you see the new update? it adds a lot of stuff and I think it's great",
+"en",
+true
+],
+[
+"hey, did you see the new update? it adds a lot of stuff and I think it's great 123 :) \n",
+"en",
+true
+],
+[
+"TU AS VU LA NOUVELLE MISE À JOUR ? ELLE AJOUTE BEAUCOUP DE CHOSES ET JE PENSE QUE C'EST SUPER",
+"fr",
+true
+],
+[
+"tu as vu la nouvelle mise à jour ? elle ajoute beaucoup de choses et je pense que c'est super !!",
+"fr",
+true
+],
+[
+"  tu  as  vu  la  nouvelle  mise  à  jour  ?  elle  ajoute  beaucoup  de  choses  et  je  pense  que  c'est  super",
+"fr",
+true
+],
+[
+"tu as vu la nouvelle mise à jour ? elle ajoute beaucoup de choses et je pense que c'est super tu as vu la nouvelle mise à jour ? elle ajoute beaucoup de choses et je pense que c'est super",
+"fr",
+true
+],
+[
+"tu as vu la nouvelle mise à jour ? elle ajoute beaucoup de choses et je pense que c'est super 123 :) \n",
+"fr",
+true
+],
+[
+"¿HAS VISTO LA NUEVA ACTUALIZACIÓN? AÑADE MUCHAS COSAS Y CREO QUE ES GENIAL",
+"es",
+true
+],
+[
+"¿has visto la nueva actualización? añade muchas cosas y creo que es genial !!",
+"es",
+true
+],
+[
+"  ¿has  visto  la  nueva  actualización?  añade  muchas  cosas  y  creo  que  es  genial",
+"es",
+true
+],
+[
+"¿has visto la nueva actualización? añade muchas cosas y creo que es genial ¿has visto la nueva actualización? añade muchas cosas y creo que es genial",
+"es",
+true
+],
+[
+"¿has visto la nueva actualización? añade muchas cosas y creo que es genial 123 :) \n",
+"es",
+true
+],
+[
+"HAST DU DAS NEUE UPDATE GESEHEN? ES FÜGT VIELE DINGE HINZU UND ICH FINDE ES TOLL",
+"de",
+true
+],
+[
+"hast du das neue Update gesehen? es fügt viele Dinge hinzu und ich finde es toll !!",
+"de",
+true
+],
+[
+"  hast  du  das  neue  Update  gesehen?  es  fügt  viele  Dinge  hinzu  und  ich  finde  es  toll",
+"de",
+true
+],
+[
+"hast du das neue Update gesehen? es fügt viele Dinge hinzu und ich finde es toll hast du das neue Update gesehen? es fügt viele Dinge hinzu und ich finde es toll",
+"de",
+true
+],
+[
+"hast du das neue Update gesehen? es fügt viele Dinge hinzu und ich finde es toll 123 :) \n",
+"de",
+true
+]
+]

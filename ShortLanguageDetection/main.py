@@ -41,7 +41,7 @@ class Detector:
         result = []
 
         for lingua_output in lingua_detection:
-            result.append((lingua_output[0].iso_code_639_1.name.lower(), lingua_output[1]))
+            result.append((lingua_output.language.iso_code_639_1.name.lower(), lingua_output.value))
 
         return result
 
@@ -50,7 +50,7 @@ class Detector:
         text = re.sub(r'(\w)\1{2,}', r'\1\1', text)
         text = re.sub(r'\d+|\^', '', text)
  
-        s = "@#$<>[]*_-~&%+/§{}=\|:▬"
+        s = "@#$<>[]*_-~&%+/§{}=\\|:▬"
         for char in text:
             if char in s:
                 text = text.replace(char, "", 1)
